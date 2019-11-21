@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 20px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+header {
+    height: 100%;
+}
+
+img {
+    height: 90%;
+    width: 90%;
+    padding-bottom: 10px;
+}
+
+h2 {
+    padding-bottom: 5px;
+}
+
+.container {
+    align-items: center;
+    font-family: 'Dosis', sans-serif;
+    font-size: 1em;
+    line-height: 2rem ;
+    width: 80%;
+}
+li {
+    list-style: square;
+    list-style-position: inside;
+    padding-left: 35px;
+}
