@@ -27,7 +27,7 @@ h2 {
 }
 
 .container {
-    align-items: center;
+    margin: 0 auto;
     font-family: 'Dosis', sans-serif;
     font-size: 1em;
     line-height: 2rem ;
